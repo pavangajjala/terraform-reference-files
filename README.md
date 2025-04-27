@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Terraform Reference Files
 
 This repository contains various Terraform configuration files and reference architectures that I've worked on during my Terraform learning journey.
@@ -28,3 +29,7 @@ This repository contains various Terraform configuration files and reference arc
 ## 📢 Note
 
 This repository is a work in progress, and it will continue to be updated with more advanced Terraform use cases and configurations as I progress in my learning.
+=======
+# terraform-reference-files
+A collection of Terraform reference files and configurations for AWS services and architectures.
+>>>>>>> abb221b1af7d4cb33f8d470c3da5f2eacbe7e9d3
